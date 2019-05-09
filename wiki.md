@@ -28,7 +28,6 @@ Contents:
 - [J.	Document Revision:](#j-document-revision)
 
 
-<a name="a-introduction"></a>
 # A.	Introduction: 
 
 - This document is brief introduce about how to create visualizations of the data in INTERLEV Portal V4. You can then build dashboards that display related visualizations.
